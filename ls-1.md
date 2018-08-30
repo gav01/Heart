@@ -1,5 +1,6 @@
 <a name=top>
 
+
 <a href=#1>北京律师高智晟评江泽民下台</b><br>
 
 <hr><a name=1>
