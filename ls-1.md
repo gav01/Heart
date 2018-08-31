@@ -100,7 +100,7 @@
 
 <hr><a name=3>
 <h1 align="center"><b>高智晟致胡錦濤溫家寶的公開信</b></h1>
-<div align="center"><img src="img/src="heart/409243206956-450x600.jpg" width=600></div>
+<div align="center"><img src="heart/img/409243206956-450x600.jpg" width=250></div>
 <div align="center">高智晟律师</div><p>
 
 <b>停止迫害自由信仰者 改善同中国人民的关系——高智晟致胡锦涛主席、温家宝总理的公开信</b>
