@@ -404,7 +404,7 @@
 
 <hr><a name=7>
 <h1 align="center"><b>高智晟被失蹤一年 獲頒自由人權獎章</b></h1>
-<div align="center"><img src="img/heart/tu1-IMG-0912-600x400.jpg" width=600></div>
+<div align="center"><img src="heart/img/tu1-IMG-0912-600x400.jpg" width=600></div>
 <div align="center">在硅谷庫柏蒂諾市政廳前，大衛•喬高（左）代表第一步論壇向耿和轉交了「沙赫巴茲•巴蒂自由獎」獎章。</div><p>
 
 【大紀元2018年08月25日訊】（大紀元記者李文淨庫柏蒂諾報導）中國著名維權律師高智晟被中共當局強迫失蹤一年之際，總部位於芬蘭的人權機構第一步論壇（First Step Forum）為其頒發2018年度自由人權獎。週五（8月24日），該機構委託加拿大前亞太司司長大衛．喬高（David Kilgour）來到灣區，向高智晟妻子耿和轉交獎章。
