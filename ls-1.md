@@ -742,7 +742,8 @@
 
 未來中國法官專業化發展將會是順理成章的制度設計，將對聯邦系統法院法官的專業閱歷作為第一選拔條件。絕大部分情形下，國家會注重在操守方面無任何瑕疪記錄的、執業一定年限的律師精英群體裡，在自願的基礎上進行選擇，以從專業學識及個人操守兩個方面保障法律實施的質量及健康司法價值的發展。#
 <p>
-<a href=" http://i.epochtimes.com/assets/uploads/2017/01/gaozhisheng170119.pdf">附：高智晟《中華聯邦共和國憲法》草案全文下載。</a>
-
+  <hr>
++<a href=" http://i.epochtimes.com/assets/uploads/2017/01/gaozhisheng170119.pdf">附：高智晟《中華聯邦共和國憲法》草案全文下載。</a>
+<hr>
 （大紀元首發，轉載請註明出處。標題為編者所加。）
 <a target="_blank" href=#top><h6 align="right">回上方</h6></a>
