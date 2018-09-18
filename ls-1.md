@@ -687,7 +687,7 @@
 
 
 <hr><a name=13>
-<h1 align="center"><b>高智晟制憲思想記錄之十九：邪靈附體</b></h1>
+<h1 align="center"><b>高智晟制宪思想记录之十九：邪灵附体</b></h1>
 <div align="center"><img src="heart/img/1509231541061657-600x400-21.55.57-1.jpg" width=600></div>
 <div align="center">高智晟律師（大紀元）</div><p>
 
@@ -742,7 +742,7 @@
 未来中国法官专业化发展将会是顺理成章的制度设计，将对联邦系统法院法官的专业阅历作为第一选拔条件。绝大部分情形下，国家会注重在操守方面无任何瑕疪记录的、执业一定年限的律师精英群体里，在自愿的基础上进行选择，以从专业学识及个人操守两个方面保障法律实施的质量及健康司法价值的发展。#
 <p>
   <hr>
-+<a href=" http://i.epochtimes.com/assets/uploads/2017/01/gaozhisheng170119.pdf">高智晟《中华联邦共和国宪法》草案全文下载。</a>
++<a href=" gaozhisheng170119.pdf">高智晟《中华联邦共和国宪法》草案全文下载。</a>
 <hr>
 （大紀元首發，轉載請註明出處。標題為編者所加。）
 <a target="_blank" href=#top><h6 align="right">回上方</h6></a>
