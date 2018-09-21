@@ -1,4 +1,6 @@
-<div align="center"><img src="heart/img/中国良心 高智晟1.jpg" width=250></div>
+<div align=center>
+<img src="images/中国良心 高智晟1.jpg" width=880>
+</div>
   
 <a name=top>
 <a href=#1>北京律师高智晟评江泽民下台</b><br>
