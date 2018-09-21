@@ -16,7 +16,7 @@
 <a href=#15>律师高智晟的故事在以色列传开</b><br> 
  <a href=#16>大纪元公布“高智晟重要事件记</b><br>   
   
-  
+  <div align="center"><img src="heart/img/中国良心 高智晟.jpg" width=250></div>
   
 <hr><a name=1>
 <h1 align="center"><b>北京律师高智晟评江泽民下台</b></h1>
