@@ -1,5 +1,5 @@
 <div align=center>
-<img src="heart/img/中国良心 高智晟1.jpg" width=880>
+<img src="heart/img/5555.jpg" width=880>
 </div>
   
 <a name=top>
