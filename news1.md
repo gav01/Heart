@@ -8,3 +8,4 @@
 <h4 align=center><a href="https://github.com/gav01/Heart/blob/master/ls-20-4-1.md">● 大纪元2020年4月时事 ● </a></h4>
 <h4 align=center><a href="https://github.com/gav01/Heart/blob/master/ls-20-5-1.md">● 大纪元2020年5月时事 ● </a></h4>
 <h4 align=center><a href="https://github.com/gav01/Heart/blob/master/ls-20-6-1.md">● 大纪元2020年6月时事 ● </a></h4>
+<h4 align=center><a href="https://github.com/gav01/Heart/blob/master/ls-20-7-1.md">● 大纪元2020年7月时事 ● </a></h4>
